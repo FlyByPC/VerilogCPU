@@ -1,4 +1,4 @@
-#EET 325 Lab Exercises
+EET 325 Lab Exercises
 
 This repository contains lab exercises developed for the EET 325 Microprocessors course at Drexel University. These materials are designed to enhance learning and are freely available for use under the terms specified below.
 
